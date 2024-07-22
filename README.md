@@ -1,0 +1,2 @@
+# botinfo
+Information for Bots
